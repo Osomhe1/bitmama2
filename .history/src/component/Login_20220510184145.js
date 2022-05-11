@@ -19,6 +19,9 @@ import { login } from '../featuers/slice'
             loggedIn:true
 
         }))
+        console.log(email, 'email')
+        console.log(name, 'name')
+        alert(handleSubmit, 'submit')
 
     }
 
